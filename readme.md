@@ -1,5 +1,4 @@
 Chinese Charting Contest 2024
--
 The Chinese Charting Contest 2024 (CCC2022) is an osu!mania mapping contest for users from 两岸四地, It was the first instalment of the Chinese Charting Contest.
 -
 Contest schedule
