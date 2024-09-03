@@ -18,6 +18,7 @@ Contest schedule can be adjusted based on the number of submissions received.
 - **#2 Place:** 188 CNY
 - **#3 Place:** 88 CNY
 - **Participation Award (#4-#6):** 18 CNY
+
 ![](https://assets.ppy.sh/profile-badges/CCC2024-winner.png)
   
 ## Organisation
