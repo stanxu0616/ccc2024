@@ -33,7 +33,8 @@ Contest schedule can be adjusted based on the number of submissions received.
 
 ## Links
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1928815)
-- [Results](https://www.bilibili.com/video/BV1ZFv4enEiY/)
+- [Results Sheet](https://mappersguild.com/contests/results?contest=66026a8aa8c1495bcfbd23ea)
+- [Results Video](https://www.bilibili.com/video/BV1ZFv4enEiY/)
 - [Entries](https://drive.google.com/file/d/1IKg5NHqRxiqNuqAFSiq8rDMO-ADarGZX/view?usp=sharing)
 
 ## Song List
