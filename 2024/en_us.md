@@ -12,6 +12,7 @@ The Chinese Charting Contest (CCC) is an osu!mania mapping contest exclusively f
 | **Submission phase** | 2024/06/01 - 2024/06/30 |
 | **Judging phase** | 2024/07/01 - 2024/07/31 |
 | **Results announcement** | 2024/08/01 |
+
 Contest schedule can be adjusted based on the number of submissions received.
 
 ## Organisation
