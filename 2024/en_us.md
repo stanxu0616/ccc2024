@@ -32,9 +32,9 @@ Contest schedule can be adjusted based on the number of submissions received.
 | Statistician | ![](https://s.ppy.sh/images/flags/cn.gif)[\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273) |
 
 ## Links
-[Forum thread](https://osu.ppy.sh/community/forums/topics/1928815)
-[Results](https://www.bilibili.com/video/BV1ZFv4enEiY/)
-[Entries](https://drive.google.com/file/d/1IKg5NHqRxiqNuqAFSiq8rDMO-ADarGZX/view?usp=sharing)
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1928815)
+- [Results](https://www.bilibili.com/video/BV1ZFv4enEiY/)
+- [Entries](https://drive.google.com/file/d/1IKg5NHqRxiqNuqAFSiq8rDMO-ADarGZX/view?usp=sharing)
 
 ## Song List
 ---
