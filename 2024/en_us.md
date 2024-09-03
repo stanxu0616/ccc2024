@@ -1,7 +1,4 @@
 ![](https://i.ppy.sh/323a7f0091718d4a8d4897f82659d0924…44241414141414142422a30212672663d7669657765725f34)
-
-# Introduction
----
 The Chinese Charting Contest (CCC) is an osu!mania mapping contest exclusively for the Chinese players, with the objective to attract more players into osu!mania mapping. Whether novice or experienced, CCC provides a platform to showcase their proficiency and inspire novel ideas in osu!mania mapping. While we encourage the competition amongst participants, we also emphasize on promoting the values in the osu!mania community. We sincerely hope to foster positive communications between the participants, audience and the committee, and endeavor to make CCC an enjoyable experience for everyone.
 
 ## Contest schedule
@@ -15,6 +12,14 @@ The Chinese Charting Contest (CCC) is an osu!mania mapping contest exclusively f
 
 Contest schedule can be adjusted based on the number of submissions received.
 
+## Prizes (TBD)
+---
+- **Winner:** 388 CNY, profile badge
+- **#2 Place:** 188 CNY
+- **#3 Place:** 88 CNY
+- **Participation Award (#4-#6):** 18 CNY
+![](https://assets.ppy.sh/profile-badges/CCC2024-winner.png)
+  
 ## Organisation
 ---
 | Position | Member(s) |
@@ -25,23 +30,22 @@ Contest schedule can be adjusted based on the number of submissions received.
 | Judge | ![](https://s.ppy.sh/images/flags/my.gif)[\_Kobii](https://osu.ppy.sh/users/6209713), ![](https://s.ppy.sh/images/flags/sg.gif)[Evening](https://osu.ppy.sh/users/2193881), ![](https://s.ppy.sh/images/flags/cn.gif)[gzdongsheng](https://osu.ppy.sh/users/8660315), ![](https://s.ppy.sh/images/flags/id.gif)[Maxus](https://osu.ppy.sh/users/4335785), ![](https://s.ppy.sh/images/flags/us.gif)[Unpredictable](https://osu.ppy.sh/users/7560872)|
 | Statistician | ![](https://s.ppy.sh/images/flags/cn.gif)[\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273) |
 
+## Links
+[Forum thread](https://osu.ppy.sh/community/forums/topics/1928815)
+[Results](https://www.bilibili.com/video/BV1ZFv4enEiY/)
+[Entries](https://drive.google.com/file/d/1IKg5NHqRxiqNuqAFSiq8rDMO-ADarGZX/view?usp=sharing)
 
-## Songs & Templates
+## Song List
 ---
-Contestants need to select one song only from the following to map. You can click YouTube/NetEase to preview the song, and click download link to get the template .osz file.
 
-**Song List**
-
-- #01 | **you - Texture Garden** (Length: 02:28 | BPM: 128 | Hi-tech) | [Youtube](https://www.youtube.com/watch?v=fwIdIzYJGxk)
-- #02 | **Kirara Magic & Ulchero - Online Fantasy (feat. Moon Jelly)** (Length: 03:45 | BPM: 126 | City Pop) | [Youtube](https://www.youtube.com/watch?v=PXfiPh3su7k)
-- #03 | **Essbee - Rebel Of Wilderness** (Length: 02:28 | BPM: 166 | Rock) | [Youtube](https://www.youtube.com/watch?v=NZv6LKQmLko)
-- #04 | **mybear - Last Slurp** (Length: 03:10 | BPM: 126 | Complextro) | [SoundCloud](https://soundcloud.com/mybearmusic/last-slurp)
-- #05 | **bobawhale & glitchless - starsignal!** (Length: 02:52 | BPM: 170 | Techcore) | [Youtube](https://www.youtube.com/watch?v=ja3_omqXMHo)
-- #06 | **awfuless - Temptation** (Length: 03:04 | BPM: 173 | J-core) | [SoundCloud](https://soundcloud.com/awfuless/temptation)
-
-**Templates**
-
-- [Google Drive](https://drive.google.com/file/d/1X2ZiOWgul0Dudly5ruGvHIrxVTR0cPvX/view?usp=sharing) | [Baidu Netdisk (提取码：2024)](https://pan.baidu.com/s/1i2OrwG9gcBmgrd9C-cwHqQ)
+| Song | Length | BPM |
+| ---- | ------ | --- |
+| you - Texture Garden | 02:28 | 128 |
+| Kirara Magic & Ulchero - Online Fantasy (feat. Moon Jelly) | 03:45 | 126 |
+| Essbee - Rebel Of Wildernes | 02:28 | BPM: 166 |
+| mybear - Last Slurp | 03:10 | 126 |
+| bobawhale & glitchless - starsignal! | 02:52 | 170 |
+| awfuless - Temptation |  03:04 | 173 |
 
 ## Ruleset
 ### Contest rules
@@ -73,40 +77,11 @@ Jugde's score will be standardized, check the formula in Mappers' Guild wrote: *
 
 Submissions are anonymous to judges.
 
-## Submission
----
-Before you submit, please verify if the following content has been set up for confirmation. Incorrect settings may cause submission failure.
-
-- **Your can only choose one song from the song list to map.** Other unselected templates files should be deleted.
-- **One and only one difficulty is allowed in your submission.**
-- **You need to change the creator of the beatmap into your own username before submitting.** Please also rename your submission .osz in to [Your Username].osz, e.g., _Stan.osz.
-- **You need to submit the file with .osz format.** It can be exported automatically in editor menus.
-- **You can only submit once.** Please make sure to carefully check before submitting.
-- **You need to submit your file throught [Mappers' Guild](), like upload your own map by Baidu Netdisk/Google Drive something like that, to fill the download link blank which in Mappers' Guild contest page.**
-
-## Prizes (TBD)
----
-- **Winner:** 366 CNY, profile badge (TBD)
-- **#2 Place:** 166 CNY
-- **#3 Place:** 66 CNY
-- **Participation Award (#4-#6):** 16 CNY
-
 ## Results
 ---
 | Place | Mapper |
 | ----- | ------ |
-|**Winner**|[?]()|
-|**#2 Place**|[?]()|
-|**#3 Place**|[?]()|
-|**Participation Award (#4-#6)**|[?]() / [?]() / [?]()|
-
-Seeking sponsors! Please contact the chairs [\_Stan](https://osu.ppy.sh/users/1653229)!
-
-## Contact
----
-If you need anything or had unclear situations, you can contact the organizer.
-
-- **Discord:** \_Stan#2317
-- **QQ:** 734408263
-
-The organizer (i.e. the organizing committee) of the competition has the final right to interpret the regulations of the competition and all activity arrangements of this competition. If participants or viewers have any opinions or suggestions about the competition, they can express their opinions in the participant communication group or any related post of the competition.
+|**Winner**|![](https://s.ppy.sh/images/flags/cn.gif)[BKwind](https://osu.ppy.sh/users/8900975)|
+|**#2 Place**|![](https://s.ppy.sh/images/flags/cn.gif)[\_Yiiiii](https://osu.ppy.sh/users/6066359)|
+|**#3 Place**|![](https://s.ppy.sh/images/flags/cn.gif)[tyrcs](https://osu.ppy.sh/users/13026904)|
+|**Participation Award (#4-#6)**|![](https://s.ppy.sh/images/flags/cn.gif)[Boomushroom](https://osu.ppy.sh/users/10588550), ![](https://s.ppy.sh/images/flags/cn.gif)[Seiran-](https://osu.ppy.sh/users/14351534), ![](https://s.ppy.sh/images/flags/ru.gif)[FlappiBakuse](https://osu.ppy.sh/users/11724295), ![](https://s.ppy.sh/images/flags/cn.gif)[wIntEr7z](https://osu.ppy.sh/users/16509588)|
