@@ -85,4 +85,4 @@ Submissions are anonymous to judges.
 |**Winner**|![](https://s.ppy.sh/images/flags/cn.gif)[BKwind](https://osu.ppy.sh/users/8900975)|
 |**#2 Place**|![](https://s.ppy.sh/images/flags/cn.gif)[\_Yiiiii](https://osu.ppy.sh/users/6066359)|
 |**#3 Place**|![](https://s.ppy.sh/images/flags/cn.gif)[tyrcs](https://osu.ppy.sh/users/13026904)|
-|**Participation Award (#4-#6)**|![](https://s.ppy.sh/images/flags/cn.gif)[Boomushroom](https://osu.ppy.sh/users/10588550), ![](https://s.ppy.sh/images/flags/cn.gif)[Seiran-](https://osu.ppy.sh/users/14351534), ![](https://s.ppy.sh/images/flags/ru.gif)[FlappiBakuse](https://osu.ppy.sh/users/11724295), ![](https://s.ppy.sh/images/flags/cn.gif)[wIntEr7z](https://osu.ppy.sh/users/16509588)|
+|**Participation Award (#4-#7)**|![](https://s.ppy.sh/images/flags/cn.gif)[Boomushroom](https://osu.ppy.sh/users/10588550), ![](https://s.ppy.sh/images/flags/cn.gif)[Seiran-](https://osu.ppy.sh/users/14351534), ![](https://s.ppy.sh/images/flags/ru.gif)[FlappiBakuse](https://osu.ppy.sh/users/11724295), ![](https://s.ppy.sh/images/flags/cn.gif)[wIntEr7z](https://osu.ppy.sh/users/16509588)|
