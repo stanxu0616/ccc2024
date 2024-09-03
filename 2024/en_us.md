@@ -43,7 +43,7 @@ Contest schedule can be adjusted based on the number of submissions received.
 | ---- | ------ | --- |
 | you - Texture Garden | 02:28 | 128 |
 | Kirara Magic & Ulchero - Online Fantasy (feat. Moon Jelly) | 03:45 | 126 |
-| Essbee - Rebel Of Wildernes | 02:28 | BPM: 166 |
+| Essbee - Rebel Of Wildernes | 02:28 | 166 |
 | mybear - Last Slurp | 03:10 | 126 |
 | bobawhale & glitchless - starsignal! | 02:52 | 170 |
 | awfuless - Temptation |  03:04 | 173 |
