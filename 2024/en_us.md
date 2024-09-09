@@ -1,4 +1,5 @@
 ![](https://i.ppy.sh/323a7f0091718d4a8d4897f82659d0924…44241414141414142422a30212672663d7669657765725f34)
+
 The Chinese Charting Contest (CCC) is an osu!mania mapping contest exclusively for the Chinese players, with the objective to attract more players into osu!mania mapping. Whether novice or experienced, CCC provides a platform to showcase their proficiency and inspire novel ideas in osu!mania mapping. While we encourage the competition amongst participants, we also emphasize on promoting the values in the osu!mania community. We sincerely hope to foster positive communications between the participants, audience and the committee, and endeavor to make CCC an enjoyable experience for everyone.
 
 ## Contest schedule
