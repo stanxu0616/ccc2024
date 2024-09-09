@@ -84,7 +84,7 @@ Submissions are anonymous to judges.
 ---
 | Place | Mapper |
 | ----- | ------ |
-|**Winner**|![](https://s.ppy.sh/images/flags/cn.gif)[BKwind](https://osu.ppy.sh/users/8900975)|
-|**#2 Place**|![](https://s.ppy.sh/images/flags/cn.gif)[\_Yiiiii](https://osu.ppy.sh/users/6066359)|
-|**#3 Place**|![](https://s.ppy.sh/images/flags/cn.gif)[tyrcs](https://osu.ppy.sh/users/13026904)|
-|**Participation Award (#4-#7)**|![](https://s.ppy.sh/images/flags/cn.gif)[Boomushroom](https://osu.ppy.sh/users/10588550), ![](https://s.ppy.sh/images/flags/cn.gif)[Seiran-](https://osu.ppy.sh/users/14351534), ![](https://s.ppy.sh/images/flags/ru.gif)[FlappiBakuse](https://osu.ppy.sh/users/11724295), ![](https://s.ppy.sh/images/flags/cn.gif)[wIntEr7z](https://osu.ppy.sh/users/16509588)|
+| ![](https://i.ppy.sh/c8447c5ce37eaa34ed393f537dda8099a4c5e161/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f63726f776e2d676f6c642e706e67) Winner |![](https://s.ppy.sh/images/flags/cn.gif)[BKwind](https://osu.ppy.sh/users/8900975)|
+| ![](https://i.ppy.sh/d076465cfe8cbc9a6911417496c8a21efa7838c3/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f63726f776e2d73696c7665722e706e67) 2nd place |![](https://s.ppy.sh/images/flags/cn.gif)[\_Yiiiii](https://osu.ppy.sh/users/6066359)|
+| ![](https://i.ppy.sh/b582c7211024aa1bbd35b1d75e4778b0bdf08836/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f63726f776e2d62726f6e7a652e706e67) 3rd place |![](https://s.ppy.sh/images/flags/cn.gif)[tyrcs](https://osu.ppy.sh/users/13026904)|
+|Participation Award (#4-#7)|![](https://s.ppy.sh/images/flags/cn.gif)[Boomushroom](https://osu.ppy.sh/users/10588550), ![](https://s.ppy.sh/images/flags/cn.gif)[Seiran-](https://osu.ppy.sh/users/14351534), ![](https://s.ppy.sh/images/flags/ru.gif)[FlappiBakuse](https://osu.ppy.sh/users/11724295), ![](https://s.ppy.sh/images/flags/cn.gif)[wIntEr7z](https://osu.ppy.sh/users/16509588)|
