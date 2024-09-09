@@ -11,16 +11,14 @@ The Chinese Charting Contest (CCC) is an osu!mania mapping contest exclusively f
 | **Judging phase** | 2024/07/01 - 2024/07/31 |
 | **Results announcement** | 2024/08/01 |
 
-Contest schedule can be adjusted based on the number of submissions received.
-
 ## Prizes
 ---
 | Placing	| Prize(s) |
 | -------	| -------- |
-| ![](https://i.ppy.sh/c8447c5ce37eaa34ed393f537dda8099a4c5e161/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f63726f776e2d676f6c642e706e67) | 388 CNY, profile badge |
-| ![](https://i.ppy.sh/d076465cfe8cbc9a6911417496c8a21efa7838c3/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f63726f776e2d73696c7665722e706e67) | 188 CNY |
-| ![](https://i.ppy.sh/b582c7211024aa1bbd35b1d75e4778b0bdf08836/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f63726f776e2d62726f6e7a652e706e67) | 88 CNY |
-| **Participation Award (#4-#7):**|  18 CNY |
+| ![](https://i.ppy.sh/c8447c5ce37eaa34ed393f537dda8099a4c5e161/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f63726f776e2d676f6c642e706e67) Winner | 388 CNY, profile badge |
+| ![](https://i.ppy.sh/d076465cfe8cbc9a6911417496c8a21efa7838c3/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f63726f776e2d73696c7665722e706e67) 2nd place | 188 CNY |
+| ![](https://i.ppy.sh/b582c7211024aa1bbd35b1d75e4778b0bdf08836/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f63726f776e2d62726f6e7a652e706e67) 3rd place | 88 CNY |
+| Participation Award (4th-7th) | 18 CNY |
 
 ![](https://assets.ppy.sh/profile-badges/CCC2024-winner.png)
   
