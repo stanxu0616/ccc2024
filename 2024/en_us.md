@@ -1,4 +1,4 @@
-![](https://i.ppy.sh/323a7f0091718d4a8d4897f82659d0924…44241414141414142422a30212672663d7669657765725f34)
+![](https://s2.loli.net/2024/08/01/kNzWO7H6tybGIeS.png)
 
 The Chinese Charting Contest (CCC) is an osu!mania mapping contest exclusively for the Chinese players, with the objective to attract more players into osu!mania mapping. Whether novice or experienced, CCC provides a platform to showcase their proficiency and inspire novel ideas in osu!mania mapping. While we encourage the competition amongst participants, we also emphasize on promoting the values in the osu!mania community. We sincerely hope to foster positive communications between the participants, audience and the committee, and endeavor to make CCC an enjoyable experience for everyone.
 
@@ -13,12 +13,14 @@ The Chinese Charting Contest (CCC) is an osu!mania mapping contest exclusively f
 
 Contest schedule can be adjusted based on the number of submissions received.
 
-## Prizes (TBD)
+## Prizes
 ---
-- **Winner:** 388 CNY, profile badge
-- **#2 Place:** 188 CNY
-- **#3 Place:** 88 CNY
-- **Participation Award (#4-#7):** 18 CNY
+| Placing	| Prize(s) |
+| -------	| -------- |
+| ![](https://i.ppy.sh/c8447c5ce37eaa34ed393f537dda8099a4c5e161/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f63726f776e2d676f6c642e706e67) | 388 CNY, profile badge |
+| ![](https://i.ppy.sh/d076465cfe8cbc9a6911417496c8a21efa7838c3/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f63726f776e2d73696c7665722e706e67) | 188 CNY |
+| ![](https://i.ppy.sh/b582c7211024aa1bbd35b1d75e4778b0bdf08836/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f63726f776e2d62726f6e7a652e706e67) | 88 CNY |
+| **Participation Award (#4-#7):**|  18 CNY |
 
 ![](https://assets.ppy.sh/profile-badges/CCC2024-winner.png)
   
